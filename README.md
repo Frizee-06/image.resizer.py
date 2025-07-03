@@ -27,10 +27,6 @@ pip install pillow
 
 python image.resizer.py
 
-> The script will take images from the image/ folder
-Resize them to 300x300
-Save them in the resized_images/ folder
-
  Sample Output
 
 img2.png resized and saved as img2.png
